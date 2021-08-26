@@ -2,12 +2,7 @@
     font-family: verdana;
     text-align: center;
     background-color: black;
-}
-
-footer {
-    text-align: right;
-    color: gray;
-    font-size: 21px;
+    color: white;
 }
 
 h1 {
@@ -25,8 +20,14 @@ h2 {
     font-size: 42px;
 }
 
-h2 p {
+h3 {
     color: gray;
     font-size: 21px;
+}
+
+h3.copyright {
+    color: gray;
+    font-size: 21px;
+    text-align: right;
 }
 
